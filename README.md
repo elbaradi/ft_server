@@ -37,25 +37,3 @@ https://localhost/phpmyadmin
 username = tijmen
 password = tijmen
 ```
-
-## Examples
-
-- The process to build the docker image can take a few minutes
-
-[![ft_server_1](https://github.com/qingqingqingli/readme_images/blob/master/ft_server_1.png)](https://github.com/qingqingqingli/ft_server)
-
-- Run docker image
-
-[![ft_server_2](https://github.com/qingqingqingli/readme_images/blob/master/ft_server_2.png)](https://github.com/qingqingqingli/ft_server)
-
-- Wordpress service page
-
-[![ft_server_wordpress](https://github.com/qingqingqingli/readme_images/blob/master/ft_server_wordpress.png)](https://github.com/qingqingqingli/ft_server)
-
-- PhpMyAdmin service page
-
-[![ft_server_pma_0](https://github.com/qingqingqingli/readme_images/blob/master/ft_server_pma_0.png)](https://github.com/qingqingqingli/ft_server)
-
-- MySQL Wordpress database
-
-[![ft_server_pma_2](https://github.com/qingqingqingli/readme_images/blob/master/ft_server_pma_2.png)](https://github.com/qingqingqingli/ft_server)
