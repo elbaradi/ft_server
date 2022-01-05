@@ -1,6 +1,6 @@
-Note: _This was my fourth 42 project. The code is from January 2021. I built a docker image to set up a wordpress page. This README was written by the amazing [Qing Li](https://github.com/qingqingqingli), it was copied with her permission; it perfectly describes the project._
+Note: _This was my fourth 42 project. The code is from January 2021. I built a docker image to set up a wordpress page. This README was written by the amazing [Qing Li](https://github.com/qingqingqingli), it was copied and modified with her permission; it perfectly describes the project._
 
-[![Logo](https://github.com/qingqingqingli/readme_images/blob/master/codam_logo_1.png)](https://github.com/qingqingqingli/ft_server)
+[![Logo](https://github.com/qingqingqingli/readme_images/blob/master/codam_logo_1.png)](https://github.com/elbaradi/ft_server)
 
 # ft_server
 ***This is a System Administration project. This project uses Docker technology to set up a web server, which will run multiple services (```Wordpress```, ```PhpMyAdmin```, ```MySQL```).***
